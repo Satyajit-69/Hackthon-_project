@@ -36,17 +36,17 @@ const ProductSection = () => {
     {
       title: "Monster Ultra",
       description: "Zero sugar, a thousand times the flavor. Monster Ultra offers the same bone-crushing energy in a lighter, crisper form. It’s for those who want to rip through the day without the extra sweetness. Smooth, citrusy, and dangerously refreshing, Ultra delivers a clean buzz that won’t weigh you down. This is pure, unadulterated energy.",
-      image: "/product-ultra.png"
+      image: "/rightside.png.png"
     },
     {
       title: "Monster Juice",
       description: "A full-throttle fusion of juice and energy. Monster Juice is a wild ride of flavor, blending classic Monster energy with authentic fruit juice. From Mango Loco to Pacific Punch, each can is a vibrant explosion of taste that revs you up and keeps you going. Get ready for a flavorful rampage.",
-      image: "/product-juice.png"
+      image: "/rightside.png.png"
     },
     {
       title: "Monster Rehab",
       description: "Hydrate, revitalize, and refuel. Monster Rehab is the ultimate pick-me-up for a long night or a tough workout. It combines electrolytes, vitamins, and a powerful dose of Monster energy to get you back in the game. Non-carbonated and packed with a tea and lemonade flavor, it's a refreshing recovery drink with an attitude.",
-      image: "/product-rehab.png"
+      image: "/rightside.png.png"
     }
   ];
 
