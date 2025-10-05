@@ -52,7 +52,7 @@ const ProductSection = () => {
 
   return (
     <section 
-      id="products" 
+      id="product" 
       className="py-20 bg-black text-white"
       ref={sectionRef}
     >
